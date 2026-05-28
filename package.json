@@ -1,6 +1,6 @@
 {
   "name": "vite-plugin-esm-to-systemjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vite plugin that transforms ESM output to SystemJS format using Babel",
   "homepage": "https://github.com/AjCu/vite-plugin-esm-to-systemjs",
   "repository": {
